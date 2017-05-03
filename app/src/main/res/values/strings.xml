@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio Android</string>
+    <string name="action_order_by_comments">Ordernar por comentários</string>
+    <string name="action_order_by_recent">Ordenar por mais recente</string>
+    <string name="action_order_by_views">Ordenar por número de views</string>
+    <string name="label_views">Views: %d</string>
+    <string name="label_comments">Comments: %d</string>
+    <string name="label_date">Date: %s</string>
+    <string name="date_format">dd/MM/yyyy - HH:mm</string>
+</resources>
